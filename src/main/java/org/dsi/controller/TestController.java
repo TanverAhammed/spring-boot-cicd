@@ -8,7 +8,7 @@ public class TestController {
 
     @GetMapping
     public String test() {
-        return "<h1>Hello World!\nI Love Java & DevOps...\nHi...</h1>";
+        return "<h1>Hello World! I Love Java. Hi...</h1>";
     }
 
 }
